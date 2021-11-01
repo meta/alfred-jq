@@ -1,7 +1,7 @@
 alfred-jq
 ==============
 [![Alfred Workflow](https://img.shields.io/badge/Alfred-Workflow-5b2585)](https://alfredapp.com)
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/meta/alfred-jq?label=latest%20release)](https://github.com/meta/alfred-meta/releases) 
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/meta/alfred-jq?label=latest%20release)](https://github.com/meta/alfred-jq/releases) 
 [![GitHub](https://img.shields.io/github/license/meta/alfred-jq)](https://github.com/meta/alfred-jq/blob/primary/LICENSE) 
 [![GitHub stars](https://img.shields.io/github/stars/meta/alfred-jq)](https://github.com/meta/alfred-jq/stargazers)
 [![GitHub all releases](https://img.shields.io/github/downloads/meta/alfred-jq/total)](https://github.com/meta/alfred-jq/releases)
